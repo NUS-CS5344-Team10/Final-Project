@@ -1,4 +1,6 @@
 # Final-Project
+Our project aims to perform sentiment analysis on Twitter data using PySpark, employing a comprehensive array of advanced technologies, including but not limited to Word2Vec, Multi-Layer Perceptron Classifier, Naive Bayes, and nltk. Through the integrated application of these techniques, our focus is on delving into the emotional content within Twitter text to gain a more holistic understanding of users' emotional inclinations and attitudes.
+
 ## Main.py
 This Python script utilizes PySpark, a distributed data processing framework, to perform sentiment analysis on Twitter data. The analysis involves preprocessing, text transformation using Word2Vec, and classification using a Multilayer Perceptron (MLP) neural network.
 
