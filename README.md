@@ -8,5 +8,5 @@ The script demonstrates a comprehensive approach to sentiment analysis on Twitte
 ## NaiveBayes.py
 The script involves several steps, including data preprocessing, natural language processing (NLP) techniques, and the training and evaluation of a Naive Bayes classifier for sentiment analysis.
 
-## Conclusion
+## Remind
 Make sure to have the necessary libraries and dependencies installed before running the script.
