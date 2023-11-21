@@ -10,5 +10,9 @@ The script demonstrates a comprehensive approach to sentiment analysis on Twitte
 ## NaiveBayes.py
 The script involves several steps, including data preprocessing, natural language processing (NLP) techniques, and the training and evaluation of a Naive Bayes classifier for sentiment analysis.
 
+## SentimentAnalysis_NonSpark.ipynb
+
+This script reads the raw data, performs text preprocessing, and conducts initial visualization. It involves training some classic machine learning algorithms as well as a Pretrained Transformer Bert model. The prediction results are presented through a report, confusion matrix, and bar graph. The last image displays a portion of the results from the BERT model, limited by time and computing resources.
+
 ## Remind
 Make sure to have the necessary libraries and dependencies installed before running the script.
